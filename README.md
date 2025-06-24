@@ -15,13 +15,13 @@ A simple web application where users share their posts including Images and its 
 
 # 📸Screenshots
 # Home
-![Home](image-3.png) ![alt text](image-4.png)
+![Home](AnimeBlogs/images/image-3.png) ![alt text](AnimeBlogs/images/image-4.png)
 # DashBoard
-![DashBoard](image-2.png)
+![DashBoard](AnimeBlogs/images/image-2.png)
 # Register
-![register](image-5.png)
+![register](AnimeBlogs/images/image-5.png)
 # Login
-![login](image-6.png)
+![login](AnimeBlogs/images/image-6.png)
 
 ```
 npm install
